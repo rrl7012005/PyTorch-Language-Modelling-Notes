@@ -3,6 +3,6 @@ Notes and code for creating a LLM based on the Generative Pre-Trained Transforme
 
 Courses and code learnt from:
 
-Andrej Karpathy- "Let's build GPT: from scratch, in code, spelled out.": https://www.youtube.com/watch?v=kCc8FmEb1nY
-freeCodeCamp.org- "Create a Large Language Model from Scratch with Python – Tutorial": https://www.youtube.com/watch?v=UU1WVnMk4E8&t=11874s
-"PyTorch Sentiment Analysis": https://github.com/bentrevett/pytorch-sentiment-analysis
+Andrej Karpathy- "Let's build GPT: from scratch, in code, spelled out.": https://www.youtube.com/watch?v=kCc8FmEb1nY  
+freeCodeCamp.org- "Create a Large Language Model from Scratch with Python – Tutorial": https://www.youtube.com/watch?v=UU1WVnMk4E8&t=11874s  
+"PyTorch Sentiment Analysis": https://github.com/bentrevett/pytorch-sentiment-analysis  
